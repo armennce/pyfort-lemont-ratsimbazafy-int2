@@ -1,0 +1,202 @@
+{
+  "Fort Boyard": {
+    "2015": {
+      "Show 01": {
+        "Clues": ["SILENCE", "ALARM", "STATION", "POST", "FREQUENCY", "ANTENNA"],
+        "CODE-WORD": "RADIO"
+      },
+      "Show 02": {
+        "Clues": ["HAIR", "NEST", "GUARDIAN", "WINGS", "SON", "HALO"],
+        "CODE-WORD": "ANGEL"
+      },
+      "Show 03": {
+        "Clues": ["JUMP", "EAR", "DOG", "INSECT", "ELECTRONICS", "CARD"],
+        "CODE-WORD": "CHIP"
+      },
+      "Show 04": {
+        "Clues": ["GARDEN", "BEAUTY", "DANCES", "PROFESSIONAL", "FAIR", "AGRICULTURE"],
+        "CODE-WORD": "SHOW"
+      },
+      "Show 05": {
+        "Clues": ["GOLF", "MEMORY", "LOCK", "MOUSE", "BLACK", "WATER"],
+        "CODE-WORD": "HOLE"
+      },
+      "Show 06": {
+        "Clues": ["MARKET", "CAKE", "PORTION", "MAKE", "SHARE", "SLICE"],
+        "CODE-WORD": "PART"
+      },
+      "Show 07": {
+        "Clues": ["WHITE", "NIGHT", "BIG", "BATH", "DONKEY", "SKI"],
+        "CODE-WORD": "HAT"
+      },
+      "Show 08": {
+        "Clues": ["GUTTER", "FISH", "GRASS", "TONGUE", "FELINE", "SIAMESE"],
+        "CODE-WORD": "CAT"
+      },
+      "Show 09": {
+        "Clues": ["SHOW", "CAVALIER", "HAMMER", "CLOVE", "POINT", "HARDWARE"],
+        "CODE-WORD": "NAIL"
+      },
+      "Show 10": {
+        "Clues": ["MASTER", "ROOM", "SPECIFIC", "CITY", "STAR", "NIGHT"],
+        "CODE-WORD": "HOTEL"
+      }
+    },
+    "2016": {
+      "Show 01": {
+        "Clues": ["EAR", "HEART", "FINE", "BATH", "FUN", "WATER"],
+        "CODE-WORD": "MOUTH"
+      },
+      "Show 02": {
+        "Clues": ["CARE", "FRESH", "COFFEE", "SOLAR", "PASTRY", "BRULEE"],
+        "CODE-WORD": "CREAM"
+      },
+      "Show 03": {
+        "Clues": ["LIFE", "SCHEDULE", "PINEAPPLE", "BOOK", "TAX", "SLICE"],
+        "CODE-WORD": "SLICE"
+      },
+      "Show 04": {
+        "Clues": ["EMPTY", "SPEED", "LEVEL", "OPINION", "EXTRACT", "PEDESTRIAN"],
+        "CODE-WORD": "PASSAGE"
+      },
+      "Show 05": {
+        "Clues": ["BOTTOM", "AIR", "ROOM", "INSTRUMENT", "NOTE", "SCORE"],
+        "CODE-WORD": "MUSIC"
+      },
+      "Show 06": {
+        "Clues": ["GUITAR", "VERBAL", "MINOR", "PRINCIPLE", "VERB", "SIGNATURE"],
+        "CODE-WORD": "CHORD"
+      },
+      "Show 07": {
+        "Clues": ["REVENGE", "DAY", "EGG", "FOOT", "MAIN", "FALSE"],
+        "CODE-WORD": "PLATE"
+      },
+      "Show 08": {
+        "Clues": ["IRON", "THROAT", "ALERT", "STENDHAL", "LIP", "RUBY"],
+        "CODE-WORD": "RED"
+      },
+      "Show 09": {
+        "Clues": ["EYE", "FISH", "PERCH", "GUTTER", "HAIR", "TONGUE"],
+        "CODE-WORD": "CAT"
+      },
+      "Show 10": {
+        "Clues": ["CIRCLE", "ROPE", "SKY", "TRIUMPH", "ARCH", "SHOT"],
+        "CODE-WORD": "BOW"
+      }
+    },
+    "2017": {
+      "Show 01": {
+        "Clues": ["RIGHT", "TABLE", "IRON", "BACK", "PULL", "CAMINO"],
+        "CODE-WORD": "PATH"
+      },
+      "Show 02": {
+        "Clues": ["STRONG", "VOICE", "BANK", "FURNITURE", "TOYS", "ROOF"],
+        "CODE-WORD": "CHEST"
+      },
+      "Show 03": {
+        "Clues": ["CHANCE", "ORDER", "AGAINST", "PARTY", "NIGHT", "YEAR"],
+        "CODE-WORD": "DAY"
+      },
+      "Show 04": {
+        "Clues": ["HEAD", "EYE", "SHARK", "RIVER", "BENGAL", "FELINDRA"],
+        "CODE-WORD": "TIGER"
+      },
+      "Show 05": {
+        "Clues": ["LOCK", "PROBLEM", "ARM", "VAULT", "WHEEL", "FIELD"],
+        "CODE-WORD": "KEY"
+      },
+      "Show 06": {
+        "Clues": ["COW", "MIST", "DEVIL", "FOOT", "PASTRY", "IVORY"],
+        "CODE-WORD": "HORN"
+      },
+      "Show 07": {
+        "Clues": ["CUP", "LAMB", "HEAD", "CHOCOLATE", "ACE", "POKER"],
+        "CODE-WORD": "SQUARE"
+      },
+      "Show 08": {
+        "Clues": ["BLACK", "FLOUR", "STRAW", "EAR", "FIELD", "MONEY"],
+        "CODE-WORD": "WHEAT"
+      },
+      "Show 09": {
+        "Clues": ["HIDDEN", "WHITE", "CLAUDINE", "FEMUR", "TOURMALET", "SWAN"],
+        "CODE-WORD": "COL"
+      },
+      "Show 10": {
+        "Clues": ["FLOWER", "PASTA", "WHITE", "BATH", "ALUM", "GUERANDE"],
+        "CODE-WORD": "SALT"
+      }
+    },
+    "2018": {
+      "Show 01": {
+        "Clues": ["WAR", "HEART", "LAST", "HOWLING", "ANIMALS", "PAIN"],
+        "CODE-WORD": "SHOUT"
+      },
+      "Show 02": {
+        "Clues": ["POWDER", "MILK", "BOWL", "GRAIN", "HIT", "CUP"],
+        "CODE-WORD": "COFFEE"
+      },
+      "Show 03": {
+        "Clues": ["CARD", "PUBLIC", "PIRATE", "ISLAND", "CHEST", "ROOM"],
+        "CODE-WORD": "TREASURE"
+      },
+      "Show 04": {
+        "Clues": ["LAWYER", "LEGITIMATE", "FOOTBALL", "SECRET", "ELEPHANT", "ARK"],
+        "CODE-WORD": "DEFENSE"
+      },
+      "Show 05": {
+        "Clues": ["GLASS", "LITTLE", "HAT", "FABRIC", "BALL", "THREAD"],
+        "CODE-WORD": "WOOL"
+      },
+      "Show 06": {
+        "Clues": ["HAND", "PAPER", "BEACH", "TRIP", "KNOTS", "TRASH"],
+        "CODE-WORD": "BAG"
+      },
+      "Show 07": {
+        "Clues": ["DENTAL", "STREET", "ICE", "COOKING", "REGISTRATION", "SEWER"],
+        "CODE-WORD": "PLATE"
+      },
+      "Show 08": {
+        "Clues": ["ROAD", "STAMPS", "EDGE", "NOTES", "ADDRESSES", "BOOKLET"],
+        "CODE-WORD": "NOTEBOOK"
+      },
+      "Show 09": {
+        "Clues": ["CROISSANT", "SATELLITE", "CLEAR", "GIBBOUS", "APOLLO", "SKY"],
+        "CODE-WORD": "MOON"
+      },
+      "Show 10": {
+        "Clues": ["PRIZE", "ADVICE", "LITTLE", "ENEMY", "CHILDHOOD", "BEST"],
+        "CODE-WORD": "FRIEND"
+      }
+    },
+    "2019": {
+      "Show 01": {
+        "Clues": ["BEAUTIFUL", "SPIRITUAL", "FAMILY", "CHRISTMAS", "WHIPPING", "DAD"],
+        "CODE-WORD": "FATHER"
+      },
+      "Show 02": {
+        "Clues": ["TISSUE", "FREE", "EARTH", "RICE", "ANIMAL", "VEGETABLE"],
+        "CODE-WORD": "PAPER"
+      },
+      "Show 03": {
+        "Clues": ["JOKER", "PHILIPPE", "BOWTIE", "ROAD", "ELECTRIC", "PODIUM"],
+        "CODE-WORD": "CIRCUS"
+      },
+      "Show 04": {
+        "Clues": ["CAMERA", "HORIZONTAL", "POST", "CABINET", "TIGHT", "SPEAKER"],
+        "CODE-WORD": "LENS"
+      },
+      "Show 05": {
+        "Clues": ["PEACE", "SPEED", "ENGINE", "DIALOGUE", "VOICE", "MUSIC"],
+        "CODE-WORD": "NATURAL"
+      },
+      "Show 06": {
+        "Clues": ["JAZZ", "VIOLET", "RICH", "VICIOUS", "ELECTRONIC", "ORANGE"],
+        "CODE-WORD": "DARK"
+      },
+      "Show 07": {
+        "Clues": ["BABY", "NO", "MAYOR", "MARK", "GROWTH", "FATHER"],
+        "CODE-WORD": "FIRE"
+      }
+    }
+  }
+}
