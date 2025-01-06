@@ -1,15 +1,14 @@
 # pyfortproject
-*Fort Boyard Simulator*
+**1 - global presentation of the project**
+
+name project *Fort Boyard Simulator*
 
 contributors : 
 
 - Mathis LEMONT
 - Armence RATSIMBAZAFY 
-INT2_8
 
-** 1 - global presentation of the project**
-
-The aim of this project was to recreate the Game of Fort Boyard (TV show) where a team of players must complete multiple challenges of various kind, to win three keys that will give them acces to the *treasure room*. 
+* global description of the project : the aim of this project was to recreate the Game of Fort Boyard (TV show) where a team of players must complete multiple challenges of various kind, to win three keys that will give them acces to the *treasure room*. 
 
 Here, we had only **4 kind of challenges** to implement: 
 
@@ -18,12 +17,33 @@ Here, we had only **4 kind of challenges** to implement:
 - chance challenge
 - final challenge
 
-** 2 - Technical documentation of algorithm** 
+programming language: Python 
 
-**3 - 
-
-Programming Language used : Python 
-
-Websites and Sources that we used during this project: 
+We decided to divide the project into 7 files, where all the basic functions were put to generate the whole game : 
 
 
+
+**2 - Technical documentation of algorithm** 
+
+- main.py() --> menu ()
+- utility_functions.py --> introduction(), compose_equipe(), challenges_menu(), chose_player(), (*bonus) record_history()
+- math_challenge.py --> factorial(n), math_challenge_function(), is_prime(), nearest_prime(), math_challenge_prime(), solve_linear_equation(), linear_equation_test()
+- logical_challenge.py --> display_sticks(), player_move(), master_move(), nim_challenge(), tic_tac_toe(), initialize_grid(), display_grid(), check_victory, full_grid(), player_turn(), master_turn(), tictactoe_game()
+- chance_challenge.py --> 
+- pere_fouras_riddles.py --> load_riddles(file_path), pere_fouras_riddle()
+- final_challenge.py --> treasure_room
+
+* websites and sources that we used during this project: 
+
+* input and error managment:
+
+- la plupart des erruers que j'ai pu faire venait souvent d'oublis en écrivant print("__") au lieu de print(f"__) ce qui ne rendait pas du tout le même résultat. 
+
+- pour faire des tests de fonction , j'ai parfois utilisé des "balises" pour tester chaque étape de l'execution et ainsi retrouver plus vites de potentiels erruers ou bugs
+
+- pour faire en sorte que l'execution du code soit fluide ou qu'elle ne s'interrompt pas à "n'importe quel moment", j'ai utilisé les mots-clés **try** et **Except** qui fonctionnent un peu comme une boucle while pour s'arrêter "àa la condition que" 
+
+* logbook :
+
+1 - répartition des tâches + découverte du projet 
+2 - 
