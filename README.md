@@ -68,7 +68,8 @@ To use the the menu of the game, we need to import the "main" functions that man
 
 * logbook :
 
-1 - répartition des tâches + découverte du projet 
+1 - répartition des tâches + découverte du projet
+
 <img width="499" alt="planner 1" src="https://github.com/user-attachments/assets/48f1c7fe-69f7-4e12-963a-41c632ea4da5" />
 
 <img width="542" alt="planner 2" src="https://github.com/user-attachments/assets/cd8fd6b8-fa3f-47d7-b315-2eb7063351f0" />
